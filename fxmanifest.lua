@@ -13,15 +13,21 @@ shared_scripts {
 }
 
 client_scripts {
-    'client/main.lua'
+    'client/main.lua',
+    'client/target.lua'
 }
 
 server_scripts {
-    'server/main.lua'
+    '@oxmysql/lib/MySQL.lua',
+    'server/main.lua',
+    'server/log.lua'
 }
 
 dependencies {
-    'qb-core'
+    'oxmysql',
+    'qb-core',
+    'qb-inventory',
+    'qb-target'
 }
 
 lua54 'yes'
