@@ -4,7 +4,7 @@ game 'gta5'
 
 author 'Giana - github.com/Giana'
 description 'g-mysterybox'
-version '0.0.0'
+version '0.0.1'
 
 shared_scripts {
     '@qb-core/shared/locale.lua',
