@@ -29,7 +29,7 @@ G-MysteryBox is a script for FiveM QBCore for configuring a mystery box to be fo
 **IMAGES**
 -----
 ![Mystery Box](https://i.ibb.co/Czntrt9/mysterybox.png)
-![Mystery Box Target](https://i.ibb.co/xS7Lwv7/mysteryboxtarget.png)
+![Mystery Box Target](https://i.ibb.co/JRst8Ls/mysteryboxtarget.png)
 ![Mystery Box Rewards](https://i.ibb.co/RhV4TWh/mysteryboxrewards.png)
 
 **DEPENDENCIES**
